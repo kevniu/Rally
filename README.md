@@ -13,44 +13,44 @@ Rally is a geolocation based social event planning app for iOS. Rally was built 
   - Real time feed updates and invitation notifications for groups and events
   - Suprise button offers randomized event look up to help users make spontaneous plans
 
-####Loading page
+####Loading Page
 <img src="./readme-images/loading-screen.png" height="700">
 
-####Login/Singup page
+####Login/Sign Up Page
 
 <img src="./readme-images/login.png" height="700">
 <img src="./readme-images/signup.png" height="700">
 
-####Ralli marker map page
+####Map Page with Custom Rally Markers
 <img src="./readme-images/main-map.png" height="700">
 <img src="./readme-images/marker.png" height="700">
 
-####Group page & create a new group
+####Groups Page & Group Creation
 <img src="./readme-images/group.png" height="700">
 <img src="./readme-images/create-group.png" height="700">
 
-####Chat in a group & add a user to a group
+####Group Chat & Add User Functionality
 <img src="./readme-images/chat-in-group.png" height="700">
 <img src="./readme-images/add-person-to-group.png" height="700">
 
-####Create a event & invite your groups to an event
+####Event Creation & Groups Invite Page
 <img src="./readme-images/create-ralli.png" height="700">
 <img src="./readme-images/invite-group.png" height="700">
 
-####Real time notification & user profile
+####Real Time Notifications and Updates & User Profile
 <img src="./readme-images/feed.png" height="700">
 <img src="./readme-images/profile.png" height="700">
 
-####Randomized event look up
+####Randomized Event Look Up
 <img src="./readme-images/random.png" height="700">
 
 
-##Tech stack used:
+##Tech Stack Used
 React Native
 
 Firebase
 
-##Test it on your machine locally
+##Test it on your Local Machine
 - Clone this repo ```git clone https://github.com/kevniu/Rally.git```
 - ```cd Ralli```
 - run `npm install` in your command line tool
@@ -59,7 +59,7 @@ Firebase
 - Create an account on the signup page to get started using the app.
 
 
-## Collaborators:
+## Collaborators
 - Blair White
 - Chunyu Ou
 - Eric Gumerlock
@@ -67,7 +67,7 @@ Firebase
 - Miqueas Hernandez
 
 
-## Note to all collaborators:
+## Note to all Collaborators
 ** All warning messages are disabled, to activate go change** <br />
 ```javascript
 jsCodeLocation = [NSURL URLWithString:@"http://localhost:8081/index.ios.bundle?platform=ios&dev=true"];
